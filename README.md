@@ -1,2 +1,2 @@
 # doujinvoice_spider
-从dlsite、mikocon等网站爬取同人音声目录信息
+从dlsite等网站爬取同人音声目录信息
